@@ -27,4 +27,4 @@ now click File then Import image and browse to the location of the image and sel
 <img width="955" height="537" alt="4" src="https://github.com/user-attachments/assets/feb862ac-5af7-4069-8a04-eb0aff02f9ca" />
 then click open and click start
 
-when it finishes disconect every cable from it and reconect the hdmi and power adpter and let it boot it will boot to android 8.1 the wifi and remote may not work they work done of not click [here](/fix.md)
+when it finishes disconect every cable from it and reconect the hdmi and power adpter and let it boot it will boot to android 8.1 the wifi and remote may not work. if they work done of not click [here](/fix.md)
