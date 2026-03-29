@@ -2,6 +2,9 @@ how to enter loader mode to flash.
 
 first open the device here is a youtube link: i didnt find a link.
 
+then download all the file needed here:
+https://github.com/talveller/mibox4/releases/tag/files
+
 then remove the metal shield
 then connect it to the pc with a usb-a to usb-a
 then bridge like this
