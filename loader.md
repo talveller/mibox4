@@ -20,8 +20,9 @@ then open usb burning tool and click this button:
 <img width="1059" height="771" alt="1" src="https://github.com/user-attachments/assets/c299f555-d9d5-40d0-9d8c-d3e495daaffa" />
 
 after that press View then InPut Password. it will look like this:
-and click the button as shown and browse and select the password.bin file download [here](https://github.com/talveller/mibox4/blob/main/password.bin)
 <img width="649" height="266" alt="3" src="https://github.com/user-attachments/assets/be8153d7-6509-4ba8-a479-c20472c5bf42" />
+
+and click the button as shown and browse and select the password.bin file download [here](https://github.com/talveller/mibox4/blob/main/password.bin)
 
 now click File then Import image and browse to the location of the image and select it like this:
 <img width="955" height="537" alt="4" src="https://github.com/user-attachments/assets/feb862ac-5af7-4069-8a04-eb0aff02f9ca" />
